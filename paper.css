@@ -1,0 +1,61 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url(b7.jpeg);
+    
+  }
+  
+  header{
+    background-color: #4d3a3a;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  nav ul{
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li{
+    display: inline;
+    margin-right: 100px;
+  }
+  
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  .twitter{
+    color: aqua;
+  }
+  .insta{
+    color:rgb(226, 95, 165)
+  }
+  
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #315e79;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
